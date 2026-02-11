@@ -6,6 +6,23 @@ The goal is to understand bias–variance tradeoffs and model behavior using a c
 
 ---
 
+## Dataset
+
+The input data is loaded from:
+
+```
+data_profile_mean.txt
+```
+
+It represents a spatial saturation profile used as a regression target. The notebook assumes the data file is located in:
+
+```
+./data_profile_mean.txt
+```
+
+You may replace this with your own dataset in the same format.
+---
+
 ## Methods Compared
 
 The notebook implements and evaluates:

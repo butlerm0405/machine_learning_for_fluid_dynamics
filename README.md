@@ -16,7 +16,7 @@ Automated optimization of preprocessing, feature selection, and classifier pipel
 ### Physics-Informed Neural Networks for Initial Value Problems
 Neural differential equation solver using automatic differentiation and PINN-style training.
 
-📄 [Report](pinn-initial-value-problems/report.pdf)
+📄 [Report](pinn-ivp/report.pdf)
 
 ---
 

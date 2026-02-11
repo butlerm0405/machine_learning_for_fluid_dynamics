@@ -17,7 +17,7 @@ Code reference: :contentReference[oaicite:0]{index=0}
 
 📄 [Final Report (PDF)](report.pdf)  
 🎞️ [Presentation Slides](slides.pdf)  
-🎥 [Presentation Video]([https://youtu.be/NBF0fpon3IY])
+🎥 [Presentation Video](https://youtu.be/NBF0fpon3IY)
 
 ---
 

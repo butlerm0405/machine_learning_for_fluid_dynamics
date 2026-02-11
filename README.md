@@ -5,6 +5,7 @@ This project compares several regression approaches for modeling spatial saturat
 The goal is to understand bias–variance tradeoffs and model behavior using a controlled dataset.
 
 Presentation: https://youtu.be/hxNFxsIoxms
+[Final Report (PDF)](report.pdf)
 
 ---
 
